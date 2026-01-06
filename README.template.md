@@ -20,7 +20,6 @@ I am a Master's student exploring offensive security, exploit development, rever
       <img src="https://img.shields.io/badge/Nmap-62758b?style=flat-square" alt="Nmap">
       <img src="https://img.shields.io/badge/Nessus-62758b?style=flat-square" alt="Nessus">
       <img src="https://img.shields.io/badge/Qualys-62758b?style=flat-square" alt="Qualys">
-      <img src="https://img.shields.io/badge/Exploit_Development-62758b?style=flat-square" alt="Exploit Development">
     </div>
   </div>
 
@@ -32,7 +31,6 @@ I am a Master's student exploring offensive security, exploit development, rever
       <img src="https://img.shields.io/badge/Bash-e8d694?style=flat-square" alt="Bash">
       <img src="https://img.shields.io/badge/Autopsy-e8d694?style=flat-square" alt="Autopsy">
       <img src="https://img.shields.io/badge/Splunk-e8d694?style=flat-square" alt="Splunk">
-      <img src="https://img.shields.io/badge/Reverse_Engineering-e8d694?style=flat-square" alt="Reverse Engineering">
       <img src="https://img.shields.io/badge/Static/Dynamic_Analysis-e8d694?style=flat-square" alt="Static/Dynamic Analysis">
       <img src="https://img.shields.io/badge/Ghidra-e8d694?style=flat-square" alt="Ghidra">
       <img src="https://img.shields.io/badge/IDA_Pro-e8d694?style=flat-square" alt="IDA Pro">
