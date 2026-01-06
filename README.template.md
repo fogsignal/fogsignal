@@ -45,6 +45,18 @@ This repository serves as a portfolio of my projects and research, reflecting my
 
 A selection of projects demonstrating hands-on exploration of offensive security, reverse engineering, and malware analysis.
 
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+
+  <!-- Card 1 -->
+  <div style="background-color:#62758b; color:white; padding:1rem; border-radius:8px; width:200px;">
+    <h3>Custom PE Malware Analysis</h3>
+    <p>Malware analysis and reverse engineering of Windows PE files.</p>
+    <a href="projects/malware-analysis/custom-pe-analysis" style="color:#e8d694;">View Project</a>
+  </div>
+
+
+
+</div>
 
 
 ## Research & Notes
