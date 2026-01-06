@@ -11,3 +11,6 @@ I am a Master's student exploring offensive security, exploit development, rever
 
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-e8d694?style=flat-square)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-62758b?style=flat-square)
+
+| Offensive / Exploit | Malware / Reverse | Languages / Tools |
+| ------------------- | ----------------- | ----------------- |
