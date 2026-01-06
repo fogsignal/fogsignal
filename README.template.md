@@ -8,7 +8,27 @@ I am a Master's student exploring offensive security, exploit development, rever
 
 ## Skills
 
-| Offensive / Exploit | Malware / Reverse | Languages / Tools |
-|--------------------|-----------------|-----------------|
-| ![Offensive Security](https://img.shields.io/badge/Offensive_Security-62758b?style=for-the-badge) <br> ![Exploit Development](https://img.shields.io/badge/Exploit_Development-62758b?style=for-the-badge) | ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-e8d694?style=for-the-badge) <br> ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-e8d694?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-1b2030?style=for-the-badge) <br> ![C](https://img.shields.io/badge/C-1b2030?style=for-the-badge) <br> ![Ghidra](https://img.shields.io/badge/Ghidra-1b2030?style=for-the-badge) <br> ![IDA Pro](https://img.shields.io/badge/IDA_Pro-1b2030?style=for-the-badge) |
+<h2>Skills</h2>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      <b>Offensive / Exploit</b><br>
+      <img src="https://img.shields.io/badge/Offensive_Security-62758b?style=for-the-badge" alt="Offensive Security"><br>
+      <img src="https://img.shields.io/badge/Exploit_Development-62758b?style=for-the-badge" alt="Exploit Development">
+    </td>
+    <td align="center">
+      <b>Malware / Reverse</b><br>
+      <img src="https://img.shields.io/badge/Reverse_Engineering-e8d694?style=for-the-badge" alt="Reverse Engineering"><br>
+      <img src="https://img.shields.io/badge/Malware_Analysis-e8d694?style=for-the-badge" alt="Malware Analysis">
+    </td>
+    <td align="center">
+      <b>Languages / Tools</b><br>
+      <img src="https://img.shields.io/badge/Python-1b2030?style=for-the-badge" alt="Python"><br>
+      <img src="https://img.shields.io/badge/C-1b2030?style=for-the-badge" alt="C"><br>
+      <img src="https://img.shields.io/badge/Ghidra-1b2030?style=for-the-badge" alt="Ghidra"><br>
+      <img src="https://img.shields.io/badge/IDA_Pro-1b2030?style=for-the-badge" alt="IDA Pro">
+    </td>
+  </tr>
+</table>
 
