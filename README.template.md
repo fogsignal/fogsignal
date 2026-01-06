@@ -3,12 +3,6 @@
   <img src="assets/banner.png" alt="Fogsignal Banner" />
 </p>
 
-# FOGSIGNAL
-
-offensive | research | engineering
-
----
-
 ## About
 
 I am a Master’s student exploring offensive security, exploit development, reverse engineering, and malware analysis.  
