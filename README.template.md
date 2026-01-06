@@ -58,10 +58,11 @@ I am a Master's student exploring offensive security, exploit development, rever
 </div>
 
 
+<!--skills 2-->
 ## Skills
 
-### Offensive / Exploit
-![Offensive / Exploit](https://img.shields.io/badge/Offensive%20/Exploit-62758b?style=for-the-badge&logo=github)
+<!-- Offensive / Exploit -->
+![Offensive / Exploit](https://img.shields.io/badge/Offensive%20%2F%20Exploit-62758b?style=for-the-badge)
 <br>
 ![Metasploit](https://img.shields.io/badge/Metasploit-62758b?style=flat-square) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-62758b?style=flat-square) 
@@ -70,10 +71,10 @@ I am a Master's student exploring offensive security, exploit development, rever
 ![Qualys](https://img.shields.io/badge/Qualys-62758b?style=flat-square) 
 ![Exploit Development](https://img.shields.io/badge/Exploit_Development-62758b?style=flat-square)
 
----
+<br>
 
-### Malware / Reverse Engineering
-![Malware / Reverse Engineering](https://img.shields.io/badge/Malware%20/Reverse-Engineering-e8d694?style=for-the-badge&logo=github)
+<!-- Malware / Reverse Engineering -->
+![Malware / Reverse Engineering](https://img.shields.io/badge/Malware%20%2F%20Reverse_Engineering-e8d694?style=for-the-badge)
 <br>
 ![Python](https://img.shields.io/badge/Python-e8d694?style=flat-square) 
 ![Bash](https://img.shields.io/badge/Bash-e8d694?style=flat-square) 
@@ -84,10 +85,10 @@ I am a Master's student exploring offensive security, exploit development, rever
 ![Ghidra](https://img.shields.io/badge/Ghidra-e8d694?style=flat-square) 
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-e8d694?style=flat-square)
 
----
+<br>
 
-### Languages / Tools
-![Languages / Tools](https://img.shields.io/badge/Languages%20/Tools-1b2030?style=for-the-badge&logo=github)
+<!-- Languages / Tools -->
+![Languages / Tools](https://img.shields.io/badge/Languages%20%2F%20Tools-1b2030?style=for-the-badge)
 <br>
 ![Python](https://img.shields.io/badge/Python-1b2030?style=flat-square) 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-1b2030?style=flat-square) 
