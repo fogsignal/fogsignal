@@ -1,1 +1,1 @@
-[![fogsignal github banner](./assets/FOGSIGNAL(1).png)]
+![fogsignal github banner](./assets/FOGSIGNAL(1).png)
