@@ -47,13 +47,13 @@ A selection of projects demonstrating hands-on exploration of offensive security
 
 <div style="align: center;">
   <a href="posts/post-01.md">
-    <img src="assets/PROJECT.png" alt="Post Title" width="330"/>
+    <img src="assets/OffSec.png" alt="Post Title" width="330"/>
   </a>
   <a href="posts/post-01.md">
-    <img src="assets/PROJECT(1).png" alt="Post Title" width="330"/>
+    <img src="assets/ExploitDev.png" alt="Post Title" width="330"/>
   </a>
   <a href="posts/post-01.md">
-    <img src="assets/PROJECT(2).png" alt="Post Title" width="330"/>
+    <img src="assets/RE-Malware.png" alt="Post Title" width="330"/>
   </a>
 </div>
 
