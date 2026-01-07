@@ -48,7 +48,12 @@ A selection of projects demonstrating hands-on exploration of offensive security
 <a href="posts/post-01.md">
   <img src="assets/PROJECT.png" alt="Post Title" width="400"/>
 </a>
-
+<a href="posts/post-01.md">
+  <img src="assets/PROJECT(1).png" alt="Post Title" width="400"/>
+</a>
+<a href="posts/post-01.md">
+  <img src="assets/PROJECT(2).png" alt="Post Title" width="400"/>
+</a>
 ## Research & Notes
 
 Write-ups and notes from ongoing exploration and study.
