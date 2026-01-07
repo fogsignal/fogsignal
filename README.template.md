@@ -45,7 +45,7 @@ This repository serves as a portfolio of my projects and research, reflecting my
 
 A selection of projects demonstrating hands-on exploration of offensive security, reverse engineering, and malware analysis.
 
-<div style="align-items: center;">
+<div style="align: center;">
   <a href="posts/post-01.md">
     <img src="assets/PROJECT.png" alt="Post Title" width="330"/>
   </a>
