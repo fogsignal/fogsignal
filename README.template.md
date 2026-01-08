@@ -49,12 +49,13 @@ A selection of projects demonstrating hands-on exploration of offensive security
   <a href="projects/offsec/README.md">
     <img src="assets/offsec.png" alt="Post Title" width="330"/>
   </a>
-  <a href="projects/exploitdev/README.md">
-    <img src="assets/exploitdev.png" alt="Post Title" width="330"/>
-  </a>
   <a href="projects/re-malware/README.md">
     <img src="assets/re-malware.png" alt="Post Title" width="330"/>
   </a>
+  <a href="projects/exploitdev/README.md">
+    <img src="assets/exploitdev.png" alt="Post Title" width="330"/>
+  </a>
+
 </div>
 
 
