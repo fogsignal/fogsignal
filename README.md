@@ -65,19 +65,12 @@ Write-ups and notes from ongoing exploration and study.
 
 
 
-## Contact
-
-
-
-_Fogsignal reflects an interest in clarity and guidance in complex systems—understanding what is hidden and signaling it clearly._
 
 
 
 
 
 
-
-## Contact
 
 
 
