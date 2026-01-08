@@ -45,11 +45,35 @@ This repository serves as a portfolio of my projects and research, reflecting my
 
 A selection of projects demonstrating hands-on exploration of offensive security, reverse engineering, and malware analysis.
 
+<div style="align: center;">
+  <a href="projects/offsec/README.md">
+    <img src="assets/offsec.png" alt="Post Title" width="330"/>
+  </a>
+  <a href="projects/re-malware/README.md">
+    <img src="assets/re-malware.png" alt="Post Title" width="330"/>
+  </a>
+  <a href="projects/exploitdev/README.md">
+    <img src="assets/exploitdev.png" alt="Post Title" width="330"/>
+  </a>
+
+</div>
 
 
 ## Research & Notes
 
 Write-ups and notes from ongoing exploration and study.
+
+
+
+## Contact
+
+
+
+_Fogsignal reflects an interest in clarity and guidance in complex systems—understanding what is hidden and signaling it clearly._
+
+
+
+
 
 
 
