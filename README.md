@@ -8,6 +8,7 @@
 I am a Master’s student exploring offensive security, exploit development, reverse engineering, and malware analysis.  
 This repository serves as a portfolio of my projects and research, reflecting my interest in understanding systems by breaking and analyzing them.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1745816" style='border:none;'></iframe>
 ---
 
 ## Skills
