@@ -8,7 +8,6 @@
 I am a Master’s student exploring offensive security, exploit development, reverse engineering, and malware analysis.  
 This repository serves as a portfolio of my projects and research, reflecting my interest in understanding systems by breaking and analyzing them.
 
-![tryhackme stats](assets/thm_propic.png)
 ---
 
 ## Skills
