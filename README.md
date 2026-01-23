@@ -45,12 +45,12 @@ This repository serves as a portfolio of my projects and research, reflecting my
 
 Research and development focused on exploit creation, malware analysis, and attack techniques.
 
-<div style="align: center;">
+<div align=center>
   <a href="projects/README.md">
-    <img src="assets/projects.png" alt="Post Title" width="350"/>
+    <img src="assets/projects.png" alt="Post Title" width="375"/>
   </a>
   <a href="blog/README.md">
-    <img src="assets/blog.png" alt="Post Title" width="350"/>
+    <img src="assets/blog.png" alt="Post Title" width="375"/>
   </a>
 
 
