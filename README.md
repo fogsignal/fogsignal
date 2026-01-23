@@ -41,27 +41,20 @@ This repository serves as a portfolio of my projects and research, reflecting my
 
 ---
 
-## Projects
+## Offensive Security Portfolio
 
-A selection of projects demonstrating hands-on exploration of offensive security, reverse engineering, and malware analysis.
+Research and development focused on exploit creation, malware analysis, and attack techniques.
 
 <div style="align: center;">
-  <a href="projects/offsec/README.md">
-    <img src="assets/offsec.png" alt="Post Title" width="260"/>
+  <a href="projects/README.md">
+    <img src="assets/projects.png" alt="Post Title" width="350"/>
   </a>
-  <a href="projects/re-malware/README.md">
-    <img src="assets/re-malware.png" alt="Post Title" width="260"/>
+  <a href="blog/README.md">
+    <img src="assets/blog.png" alt="Post Title" width="350"/>
   </a>
-  <a href="projects/exploitdev/README.md">
-    <img src="assets/exploitdev.png" alt="Post Title" width="260"/>
-  </a>
+
 
 </div>
-
-
-## Research & Notes
-
-Write-ups and notes from ongoing exploration and study.
 
 
 
