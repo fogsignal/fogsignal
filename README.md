@@ -47,10 +47,10 @@ Research and development focused on exploit creation, malware analysis, and atta
 
 <div align=center>
   <a href="projects/README.md">
-    <img src="assets/projects.png" alt="Post Title" width="375"/>
+    <img src="assets/projects.png" alt="Post Title" width="400"/>
   </a>
   <a href="blog/README.md">
-    <img src="assets/blog.png" alt="Post Title" width="375"/>
+    <img src="assets/blog.png" alt="Post Title" width="400"/>
   </a>
 
 
