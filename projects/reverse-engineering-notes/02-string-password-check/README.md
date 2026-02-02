@@ -25,6 +25,7 @@ Static analysis revealed the following behavior:
 The hardcoded password string was identified by inspecting the binary's string table and following cross-references to the comparison logic.
 
 ![Decompiler view showing stack buffer and string comparison](screenshots/decompiled-password-check.png)
+
 ![Strings view showing hardcoded password](screenshots/password-check-strings.png)
 
 ---
