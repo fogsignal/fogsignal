@@ -32,5 +32,5 @@ This exercise demonstrates that even simple compiled binaries, retain recoverabl
 
 
 <div align=center>
-  <a href="projects/README.md" align=center> Return to Projects Menu </a>
+  <a href="../../../projects/README.md" align=center> Return to Projects Menu </a>
 </div>
