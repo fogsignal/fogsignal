@@ -32,3 +32,7 @@ The hardcoded password string was identified by inspecting the binary's string t
 
 ## Conclusion
 This exercise demonstrates how stack-based buffers and string comparison logic appear in compiled binaries. It highlights how hardcoded credentials can be recovered through static analysis alone and serves as a foundation for future work involving binary modification and vulnerability research.
+
+<div align=center>
+  <a href="projects/README.md" align=center> Return to Projects Menu </a>
+</div>
