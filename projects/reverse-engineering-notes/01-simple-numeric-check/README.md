@@ -18,9 +18,9 @@ The binary was loaded into Ghidra and analyzed using default analysis settings. 
 ## Findings
 Analysis of the decompiled output revealed the following behavior:
 
-- The program prompts the user for numeric input
-- The input value is stored in a local variable
-- A conditional statement compares the input against a constant value
+- The program prompts the user for numeric input.
+- The input value is stored in a local variable.
+- A conditional statement compares the input against a constant value.
 - Based on the result of this comparison, the program prints either a success or failure message.
 
 ![Decompiler view showing numeric comparison logic](screenshots/simple-numeric-check-42.png)
