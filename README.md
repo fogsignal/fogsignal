@@ -5,8 +5,7 @@
 
 ## About
 
-I am a Master’s student exploring offensive security, exploit development, reverse engineering, and malware analysis.  
-This repository serves as a portfolio of my projects and research, reflecting my interest in understanding systems by breaking and analyzing them.
+I am a graduate cybersecurity student with a focus on reverse engineering, binary analysis, and exploit development. This GitHub serves as a technical portfolio documenting hands-on projects, research-oriented notes, and tooling.
 
 ---
 
