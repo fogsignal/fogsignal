@@ -29,3 +29,8 @@ Analysis of the decompiled output revealed the following behavior:
 
 ### Conclusion
 This exercise demonstrates that even simple compiled binaries, retain recoverable high-level logic. Using a decompiler allows program behavior to be understood without directly analyzing assembly instructions. This project serves as a foundational reverse engineering exercise before progressing to binaries with more complex input handling and memory usage.
+
+
+  <a href="projects/README.md">
+    <img src="../../../assets/return-to-projects.png" alt="Return to Projects" width='350' align=right />
+  </a>
