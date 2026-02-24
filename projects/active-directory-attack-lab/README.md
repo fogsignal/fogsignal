@@ -7,15 +7,22 @@ All attacks were executed in an isolated host-only virtual lab.
 
 ## Lab Architecture
 
-### Infrastructure
+<div align="center">
+  <img src="images/diagram.png" alt="Active Directory Lab Diagram" width="600" />
+</div>
 
-- 1 x Windows Server (Domain Controller)
-- 2 x Windows 10 domain-joined workstations
-- Host-only network configuration
-- Manually assigned static IP addresses
-- Custom domain users and service accounts
 
-### Network Design
+### Environment
+
+- 1 Domain Controller (Windows Server)
+- 2 Domain-Joined Windows Clients
+- 1 Attacker Machine (Kali Linux)
+
+### Domain Setup
+
+- Custom AD domain (NORTHSHORE.local)
+- Multiple user accounts (standard + service accounts)
+- Misconfigurations intentionally introduced for exploitation practice
 
 
 ## Attack Scenarios
