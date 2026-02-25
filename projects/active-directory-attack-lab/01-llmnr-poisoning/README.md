@@ -101,7 +101,7 @@ No software vulnerabilty was required - only default protocol behavior and commo
 <div align=center>
 
 <a href="../../../projects/README.md" style="margin:0 10px; text-decoration:none;">Return to Projects Page</a>&nbsp;&nbsp;||&nbsp;
-<a href="../active-directory-attack-lab/README.md" style="margin:0 10px; text-decoration:none;">Return to AD Hacking Main Page</a>&nbsp;&nbsp;||&nbsp;
+<a href="active-directory-attack-lab/README.md" style="margin:0 10px; text-decoration:none;">Return to AD Hacking Main Page</a>&nbsp;&nbsp;||&nbsp;
 <a href="" style="margin:0 10px; text-decoration:none;">Go to Next Attack Scenario</a>
 
 </div>
