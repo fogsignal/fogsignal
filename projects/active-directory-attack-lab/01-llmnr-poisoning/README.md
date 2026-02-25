@@ -99,9 +99,9 @@ No software vulnerabilty was required - only default protocol behavior and commo
 - Deploy MFA
 
 <div align=center>
-    
-  <a href="../../../projects/README.md" align=center> Return to Projects Menu </a>
-  <a href="projects/active-directory-attack-lab/README.md" align=center> Return to AD Hacking Main Page </a>
-  <a href="projects/active-directory-attack-lab/README.md" align=center> Move on to next Attack Scenario (xx) </a>
-  
+
+<a href="../../../projects/README.md" style="margin:0 10px; text-decoration:none;">Return to Projects Page</a>&nbsp;&nbsp;||&nbsp;
+<a href="../active-directory-attack-lab/README.md" style="margin:0 10px; text-decoration:none;">Return to AD Hacking Main Page</a>&nbsp;&nbsp;||&nbsp;
+<a href="" style="margin:0 10px; text-decoration:none;">Go to Next Attack Scenario</a>
+
 </div>
