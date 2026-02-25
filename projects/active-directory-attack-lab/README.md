@@ -46,5 +46,5 @@ This lab was created and attacked in a privately owned, isolated environment for
 
 
 <div align=center>
-  <a href="../projects/README.md" align=center> Return to Projects Menu </a>
+  <a href="../README.md" align=center> Return to Projects Menu </a>
 </div>
