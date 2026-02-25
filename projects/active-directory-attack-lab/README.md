@@ -13,7 +13,7 @@ All attacks were executed in an isolated host-only virtual lab.
 
 <div style="text-align: justify; max-width: 600px; margin: auto; align="center";>
   
-  *Network topology for the Active Directory lab environment. NORTHSHORE.local is the lab domain. The Domain Controller (WATCHTOWER-DC) manages the lab, and the two workstations (PIER01 and PIER02) simulate typical user machines. IP addresses are private lab subnets. This diagram helps visualize attack paths and protocol interactions.* 
+*Network topology for the Active Directory lab environment. `NORTHSHORE.local` is the lab domain. The Domain Controller (`WATCHTOWER-DC`) manages the lab, and the workstations (`PIER01` and `PIER02`) simulate typical users. All machines are within the private lab subnet `192.168.152.0/24`. This diagram is for lab illustration only; no real company or sensitive information is included.*
 
 </div>
 
