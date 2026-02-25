@@ -27,7 +27,9 @@ All attacks were executed in an isolated host-only virtual lab.
 
 ## Attack Scenarios
 
-### Initial Access
+### Initial Attack Vectors
+
+- [LLMNR Poisoning](01-llmnr-poisoning/README.md)
 
 ### Enumeration
 
