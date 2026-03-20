@@ -40,7 +40,7 @@ I am a graduate cybersecurity student exploring offensive security, penetration 
 
 ---
 
-## Offensive Security Portfolio
+## Portfolio
 
 Research and development focused on exploit creation, malware analysis, and attack techniques.
 
