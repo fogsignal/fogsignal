@@ -9,5 +9,8 @@
  <a href="active-directory-attack-lab/README.md">
     <img src="../assets/ad-testing.png" alt="Active Directory Pen Testing" width="325"/>
   </a>
+   <a href="application-security-projects/README.md">
+    <img src="../assets/appsec.png" alt="Application Security Projects" width="325"/>
+  </a>
 
 </div>
