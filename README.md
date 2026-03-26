@@ -5,7 +5,11 @@
 
 ## About
 
-I am a graduate cybersecurity student exploring offensive security, penetration testing, reverse engineering, binary analysis, and exploit development. This GitHub documents my hands-on labs, research notes, and personal projects as I build practical skills in cybersecurity.
+Exploring malware research, reverse engineering, and threat analysis.
+
+I focus on understanding how malicious software behaves through static and dynamic analysis in isolated virtual lab environments. My background in cybersecurity (B.S. and ongoing M.S.) has given me a strong foundation in systems, networking, and security principles, which I am now applying to malware analysis and threat research.
+
+This GitHub documents my hands-on labs, research notes, and projects as I continue building my practical skills in malware analysis and adversarial techniqes.
 
 ---
 
