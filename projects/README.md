@@ -12,5 +12,8 @@
    <a href="application-security-projects/README.md">
     <img src="../assets/appsec.png" alt="Application Security Projects" width="325"/>
   </a>
-
+   <a href="malware-research-projects/README.md">
+    <img src="../assets/malware-research.png" alt="Malware Research Projects" width="325"/>
+  </a>
+  
 </div>
