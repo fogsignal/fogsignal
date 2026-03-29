@@ -81,7 +81,6 @@ Research and development focused on exploit creation, malware analysis, and atta
 
 
 
-_Fogsignal reflects an interest in clarity and guidance in complex systems—understanding what is hidden and signaling it clearly._
 
 
 
