@@ -15,5 +15,8 @@
    <a href="malware-research-projects/README.md">
     <img src="../assets/malware-research.png" alt="Malware Research Projects" width="325"/>
   </a>
+  <a href="phishing-simulation-projects/README.md">
+    <img src="../assets/phishing-simulation.png" alt="Phishing Simulation Projects" width="325"/>
+  </a>
   
 </div>
