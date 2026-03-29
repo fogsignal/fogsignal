@@ -5,15 +5,15 @@
 
 ## About
 
-Exploring malware research, reverse engineering, and threat analysis.
+Exploring malware research, reverse engineering, threat analysis, and cybersecurity awareness simulations.
 
-I focus on understanding how malicious software behaves through static and dynamic analysis in isolated virtual lab environments. My background in cybersecurity (B.S. and ongoing M.S.) has given me a strong foundation in systems, networking, and security principles, which I am now applying to malware analysis and threat research.
+I focus on understanding how malicious software behaves, performing lab-based phishing simulations, and analyzing cybersecurity risks in controlled environments. My background in cybersecurity (B.S. and ongoing M.S.) has given me a strong foundation in systems, networking, and security principles.
 
-This GitHub documents my hands-on labs, research notes, and projects as I continue building my practical skills in malware analysis and adversarial techniqes.
+This GitHub documents my hands-on labs, research notes, phishing simulations, and projects as I continue building practical skills across malware analysis, adversarial techniques, and human risk management.
 
 ---
 
-## Skills
+## Skills / Technologies
 
 ### Offensive / Exploit
 ![Metasploit](https://img.shields.io/badge/Metasploit-62758b?style=flat-square)
@@ -32,6 +32,15 @@ This GitHub documents my hands-on labs, research notes, and projects as I contin
 ![Splunk](https://img.shields.io/badge/Splunk-e8d694?style=flat-square)
 ![Static/Dynamic Analysis](https://img.shields.io/badge/Static%2FDynamic_Analysis-e8d694?style=flat-square)
 
+### Human Risk / Awareness
+![Phishing Simulations](https://img.shields.io/badge/Phishing_Simulations-8fa3b1?style=flat-square)
+![KnowBe4](https://img.shields.io/badge/KnowBe4-8fa3b1?style=flat-square)
+![Awareness Campaigns](https://img.shields.io/badge/Awareness_Campaigns-8fa3b1?style=flat-square)
+![Reporting / Metrics](https://img.shields.io/badge/Reporting_Metrics-8fa3b1?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Excel-KPI_Tracking-8fa3b1?style=flat-square)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-8fa3b1?style=flat-square)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-8fa3b1?style=flat-square)
+
 ### Languages / Tools
 ![Python](https://img.shields.io/badge/Python-1b2030?style=flat-square)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-1b2030?style=flat-square)
@@ -41,6 +50,8 @@ This GitHub documents my hands-on labs, research notes, and projects as I contin
 ![Linux](https://img.shields.io/badge/Linux-1b2030?style=flat-square)
 ![VMware/VirtualBox](https://img.shields.io/badge/VMware%2FVirtualBox-1b2030?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-1b2030?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-1b2030?style=flat-square)
+![Confluence](https://img.shields.io/badge/Confluence-1b2030?style=flat-square)
 
 ---
 
