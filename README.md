@@ -7,7 +7,7 @@
 
 Exploring malware research, reverse engineering, threat analysis, and cybersecurity awareness simulations.
 
-I focus on understanding how malicious software behaves, performing lab-based phishing simulations, and analyzing cybersecurity risks in controlled environments. My background in cybersecurity (B.S. and ongoing M.S.) has given me a strong foundation in systems, networking, and security principles.
+I focus on understanding malicious software behavior, performing lab-based phishing and social engineering simulations, and analyzing cybersecurity risks in controlled environments. My background in cybersecurity (B.S. and ongoing M.S.) provides a strong foundation in systems, networking, and security principles.
 
 This GitHub documents my hands-on labs, research notes, phishing simulations, and projects as I continue building practical skills across malware analysis, adversarial techniques, and human risk management.
 
